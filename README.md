@@ -1,5 +1,6 @@
-<h2>Gm 🍵, I'm Rob!</h2>
-<h3>🥞 Plateform Engineer / Software Developer</h3>
+# Gm 🍵, I'm Rob!
+## 🥞 Plateform Engineer ⇋ Software Developer
 
+<!-- https://github.com/athul/waka-readme -->
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
